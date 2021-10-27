@@ -1,6 +1,5 @@
 # Matthew Snow's Alternate Node.js/Express Back End Boilerplate
 
----
 
 ## Purpose
 TL;DR (Advantages) - 
