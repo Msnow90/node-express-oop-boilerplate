@@ -1,0 +1,5 @@
+node_modules
+src/scripts/seedDBDev.sh
+src/scripts/seedDBLocal.sh
+.env
+node.cpuprofile
